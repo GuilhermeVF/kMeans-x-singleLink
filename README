@@ -1,0 +1,14 @@
+Para executar o código, primeiro será necessário ter as bibliotecas pandas, numpy e math instaladas,
+para isso basta executar os seguintes comandos no terminal:
+
+pip install pandas
+pip install numpy
+pip install math
+
+Uma vez que as bibliotecas estejam instaladas, basta executar o seguinte comando no terminal:
+
+python3 Main.py
+
+Agora o programa irá pedir para que seja informado o nome do arquivo csv, e o número de grupos desejados.
+
+e pronto, após a execução serão exebidos os grupos que foram formados, o swc correspondente a cada um deles, e aquele que se saiu melhor no teste.
